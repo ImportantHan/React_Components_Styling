@@ -31,10 +31,10 @@ function App() {
         </Button>
       </div>
       <div className="buttons">
-        <Button size="large" color="blue" outline>
+        <Button size="large" outline>
           BUTTON
         </Button>
-        <Button size="medium" color="gray" outline>
+        <Button color="gray" outline>
           BUTTON
         </Button>
         <Button size="small" color="pink" outline>
@@ -42,7 +42,7 @@ function App() {
         </Button>
       </div>
       <div className="buttons">
-        <Button size="large" color="blue" fullWidth>
+        <Button size="large" fullWidth>
           BUTTON
         </Button>
         <Button size="large" color="gray" fullWidth>
